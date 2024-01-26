@@ -6,3 +6,6 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [ ] Task 1
+- [ ] Task 2
